@@ -1,6 +1,6 @@
 <div align="center">
     <img height="128" src="./Ai-Music Logo/Ai-Music.png" style="display: block; margin: 0px auto;" width="128" />
-    <h2>Ai-Music</h2>
+    <h1>Ai-Music</h1>
     <p>An Android application for streaming music from YouTube Music</p>
 </div>
 
@@ -17,7 +17,7 @@
 </p>
 
 ## Features
-- Play (almost) any song or video from YouTube Music
+- Play (almost) any song or video from (`YouTube Music`)
 - Background playback
 - Cache audio chunks for offline playback
 - Search for songs, albums, artists videos and playlists

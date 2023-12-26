@@ -1,5 +1,5 @@
 <div align="center">
-    <img height="128" src="https://ibb.co/rGFhqcN" style="display: block; margin: 0px auto;" width="128" />
+    <img height="128" src="./Ai-Music Logo/Ai-Music.png" style="display: block; margin: 0px auto;" width="128" />
     <h1>Ai-Music</h1>
     <p>An Android application for streaming music from YouTube Music</p>
 </div>

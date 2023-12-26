@@ -17,7 +17,7 @@
 </p>
 
 ## Features
-- Play (almost) any song or video from (`YouTube Music`)
+- Play (almost) any song or video from `YouTube Music`
 - Background playback
 - Cache audio chunks for offline playback
 - Search for songs, albums, artists videos and playlists

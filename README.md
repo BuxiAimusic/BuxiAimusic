@@ -37,7 +37,7 @@
 
 ## Installation
 
-[<img alt="Get it on GitHub" height="80" src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" />](https://github.com/BuxiAimusic/AiMusic/raw/main/Ai%20Music_Official.apk)
+[<img alt="Get it on GitHub" height="80" src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" />](https://github.com/BuxiAimusic/Ai-Music/raw/main/Ai%20Music_Official.apk)
 
 Acknowledgments
 - [**YouTube-Internal-Clients**](https://github.com/zerodytrash/YouTube-Internal-Clients): A python script that discovers hidden YouTube API clients. Just a research project.

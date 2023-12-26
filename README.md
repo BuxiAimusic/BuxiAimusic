@@ -7,13 +7,13 @@
 ---
 
 <p align="center">
-  <img src="https://ibb.co/rGFhqcN" width="30%" />
-  <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg" width="30%" />
-  <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/3.jpg" width="30%" />
+  <img src="./Ai-Music Sc/Ai-Music1.png" width="30%" />
+  <img src="./Ai-Music Sc/Ai-Music2.png" width="30%" />
+  <img src="./Ai-Music Sc/Ai-Music3.png" width="30%" />
 
-  <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/4.jpg" width="30%" />
-  <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/5.jpg" width="30%" />
-  <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/6.jpg" width="30%" />
+  <img src="./Ai-Music Sc/Ai-Music4.png" width="30%" />
+  <img src="./Ai-Music Sc/Ai-Music5.png" width="30%" />
+  <img src="./Ai-Music Sc/Ai-Music6.png" width="30%" />
 </p>
 
 ## Features
